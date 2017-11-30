@@ -1,0 +1,7 @@
+embed=discord.Embed(title=Meet the Bots!, url=httpssteamuserimages-a.akamaihd.netugc264970884429631320D741541F5045717077746E90F7E1CA75DED8019DD, description=We have several. Cardboard Bot, Reptilepod and sometimes WaifuPod are for general use., color=0x00e100)
+embed.set_author(name=D-Walker, url=httpswww.patreon.comd_walker,, icon_url=httpsorig00.deviantart.netd471f2015250cdmgs_v___d_walker_by_jamescalcock-d98pexm.jpg)
+embed.add_field(name=Cardboard Bot, value=A custom bot made for this server by D-Walker out of Red, an open-source bot. To get started, try !help or !basic. !contact can get you in touch with D-Walker if you have any questions or concerns. Check out the !bank and !casino!, inline=True)
+embed.add_field(name=ReptilePod, value=Normally named Tatsumaki, this bot gives you XP for every message you send. Get more XP to raise your server score and level up! 'Reputation' is special, and can only be obtained by other members giving it to you. She also has a credit system that can be used to buy skins for your profile card. Use +help to see her commands, +profile to see your card and +daily to get some credits!, inline=True)
+embed.add_field(name=WaifuPod, value=The Sorrow owns this bot. use .help to learn more about her! Watch out for those flowers!, inline=True)
+embed.set_footer(text=Feel free to @ or DM D-Walker with any questions.)
+await self.bot.say(embed=embed)
