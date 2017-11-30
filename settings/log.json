@@ -1,0 +1,21 @@
+{
+    "webhook_url": "https://discordapp.com/api/webhooks/380914865323114497/Iy7_jl0FOjoOzotyoyOgWcNvMDHiwuSN4rsd1ZqFY7zFhVbEehFzA-5SOmLeh5k9ldRg",
+    "allservers": "True",
+    "servers": [],
+    "context_len": "4",
+    "log_location": "383752437707571211 138362708134199297",
+    "keyusers": {},
+    "keywords": [
+        "[isolated]this bot sucks"
+    ],
+    "user_logging": "on",
+    "blacklisted_users": [],
+    "blacklisted_servers": [],
+    "blacklisted_words": [],
+    "user_location": "",
+    "log_size": "25",
+    "webhook_url2": "",
+    "blacklisted_channels": {},
+    "keyword_logging": "on",
+    "notifier_bot_token": ""
+}
